@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Heitor
 
-<!--
-**HeitorRibeir0/HeitorRibeir0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer focused on Java, Spring Boot and .NET.
 
-Here are some ideas to get you started:
+Currently studying Software Engineering at Jala University.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+
+Java • Spring Boot • C# • ASP.NET Core
+PostgreSQL • MongoDB • Redis
+RabbitMQ • Docker • AWS
+JUnit • xUnit • Testcontainers
+GitHub Actions
+
+## Featured Projects
+
+### QuickBite
+Distributed delivery platform built with Spring Boot and React.
+
+- RabbitMQ asynchronous communication
+- JWT authentication and RBAC
+- Redis
+- WebSocket
+- Prometheus and Grafana
+- Docker Compose
+- Automated tests and CI
+
+### AuthCore
+Authentication API built with ASP.NET Core.
+
+- JWT + Refresh Token Rotation
+- Session revocation
+- Rate Limiting
+- Structured Logging
+- Unit and Integration Tests
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/heitor-ribeiro-matos/
+
+## Certifications
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-FF9900?logo=amazonaws&logoColor=white)](https://www.credly.com/badges/93eca4b3-c2ba-412c-a20e-fadb46293d3a/public_url)
